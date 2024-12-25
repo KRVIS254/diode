@@ -1,0 +1,2 @@
+# diode
+I-V CHARACTERISTICS 
